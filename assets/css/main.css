@@ -1,0 +1,518 @@
+/**{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+*/
+body{
+	font-family: "weblysleek_uilight",sans-serif;
+    color: #2c2d33;
+    background: #fff;
+
+    font-family: europa;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 2em;
+    letter-spacing: 0em;
+    text-rendering: optimizeLegibility;
+}
+
+html, body{
+	height: 100%;
+}
+
+*{
+/*    font-family: europa;*/
+    font-weight: 300;
+}
+
+/*.site-header{
+    padding-right: 5vw;
+    padding-left: 5vw;
+    margin: 1.5vw auto;
+    display: block;
+    margin-bottom: 3.5vh;
+}*/
+
+/*.work, .aruzhan , .me{
+
+    min-width: 0;
+    max-width: 100%;
+    flex: 1 1 0px;
+    width: 33.1%;
+    display: inline-block;
+    font-family: europa;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    letter-spacing: .04em;
+    text-transform: none;
+    line-height: 1em;
+    text-decoration: none;
+}
+*/
+
+
+.aruzhan a{
+    font-family: europa;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 1.4em;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+
+
+
+
+
+/*.site-header a:visited, a:focus, a:active{
+    text-decoration: none;
+    outline: none;
+    color: #474747;
+}*/
+
+
+.block-left , .block-right {
+	width: 50%;
+	height: 100%;
+	position: relative;
+	display: table;
+	box-shadow: 0 15px 25px rgba(0,0,0,.1);
+}
+
+
+
+/*checked*/
+.block-left{
+	/*background: linear-gradient(rgba(44,45,51,0.9), rgba(44,45,51,0.9)), url('../img/seoul.jpg') no-repeat; */
+	background: url('../img/picture_1.jpeg') no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	float: left;
+	background-position: center ;
+}
+
+.block-left, .block-right {
+    width: 50%;
+    height: 100%;
+    position: relative;
+    display: table;
+}
+
+
+/*div{
+	display: block;
+}*/
+
+
+.block-left .new-container , .block-right .new-container{
+	height: 100%;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.block-left .new-container{
+	position: relative;
+	z-index: 1;
+}
+
+
+/*.block-right .new-container{
+	height: 100%;
+	padding-left: 40px;
+	padding-right: 40px;
+
+}*/
+
+
+.block-left>div, .block-right>div{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+
+.new-container{
+	padding:60px;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+
+.main-info{
+	color: #fff;
+}
+
+
+.main-info, .about-info{
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.logo{
+	max-width: 150px;
+	display: inline-block;
+	background-size: 80%;
+	margin: 0 auto;
+	position: relative;
+	color: transparent;
+	height: auto;
+}
+
+
+
+.main-info img{
+	display: block;
+	max-width: 100%;
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+	border-radius: 50%;
+}
+
+/*.main-info h1::after{
+	content: "";
+	width: 100px;
+	height: 2px;
+	background: #ccc;
+	position: absolute;
+	left: 50%;
+}*/
+
+.main-info h1 {
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	font-size: 30px;
+	position: relative;
+	margin-top: 0;
+}
+
+.main-info ul{
+	font-size: 1em;
+	margin-top: 30px;
+	overflow: hidden;
+}
+
+.main-info ul li{
+	display: inline-block;
+	margin-right: 10px;
+	vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    position: relative;
+}
+
+
+.about-info{
+	text-align: left;
+}
+
+.about-info h1, .about-info h2 {
+    font-size: 35px;
+    color: #474747;
+}
+
+
+.main-info h1, .main-info h2, .about-info h1, .about-info h2 {
+	font-size: 30px;
+	position: relative;
+	margin-top: 0;
+}
+
+.about-info p{
+	padding-top: 22px;
+	color:#474747;
+	margin: 10px 0;
+	line-height: 25px;
+}
+
+
+.about-info h1{
+	font-size: 35px;
+	color:#474747;
+}
+
+
+
+.ukie-icons{
+	margin-left: 0px;
+	color: #ffffff;
+    border-color: #492ca2;
+    background-color: #7c4dff;
+    display: inline-block;
+    font-size: 16px;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    margin: 0px 7px 7px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 1px;
+}
+
+
+
+.fa{
+	display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+.about-wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5vw;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    margin: 1.5vw auto;
+    width: auto;
+    max-width: 1280px;
+}
+
+.page-text-wrapper{
+	margin-top: 10vh;
+    margin-bottom: 15vh;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+/*    display: table;*/
+}
+
+
+.page-title{
+	font-size: 2.604166666666667vw;
+	margin-top: 0;
+	margin-bottom: 10%;
+	display: block;
+    font-family: europa;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.3em;
+    letter-spacing: 0em;
+    text-transform: none;
+    color: #000;
+}
+
+
+.page-description{
+	display: block;
+	visibility: visible;
+	font-family: europa;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 2em;
+    letter-spacing: 0em;
+    text-transform: none;
+    color: #1f1f1f;
+
+}
+
+
+
+.typewriter{
+	max-width: 900px;
+	text-align: center;
+	margin: 0 auto;
+}
+	
+
+
+.typewriter h1 {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  font-size: 30px;
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+
+
+
+.test{
+	text-align: center;
+	color:black;
+	padding-top:0em;
+}
+
+.test a{
+	text-decoration: none;
+	color: black;
+}
+
+
+#loader-wrapper{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 10000;
+	background-color: #fff;
+
+}
+
+#loader{
+	display: block;
+	position: relative;
+	left: 50%;
+	top: 50%;
+	width: 150px;
+	height: 150px;
+	margin: -75px 0 0 -75px;
+	border: 3px solid transparent;
+	border-top-color: #3498db;
+	border-radius: 50%;
+	-webkit-animation: spin 2s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
+          animation: spin 2s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+    z-index: 1001;
+}
+
+#loader:before{
+	content: "";
+	position: absolute;
+	top: 5px;
+	left: 5px;
+	right: 5px;
+	bottom: 5px;
+
+	border: 3px solid transparent;
+	border-top-color: #e74c3c;
+	border-radius: 50%;
+	-webkit-animation: spin 3s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
+          animation: spin 3s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+
+}
+
+#loader:after{
+	content: "";
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	right: 15px;
+	bottom: 15px;
+
+	border: 3px solid transparent;
+	border-top-color: #f9c922;
+	border-radius: 50%;
+	-webkit-animation: spin 1.5s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
+          animation: spin 1.5s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+
+}
+
+
+@-webkit-keyframes spin {
+  0%   { -webkit-transform: rotate(0deg);  /* Chrome, Opera 15+, Safari 3.1+ */
+      -ms-transform: rotate(0deg);  /* IE 9 */
+          transform: rotate(0deg);  /* Firefox 16+, IE 10+, Opera  } */
+  		}
+  100% {
+  	 -webkit-transform: rotate(360deg);  /* Chrome, Opera 15+, Safari 3.1+ */
+      -ms-transform: rotate(360deg);  /* IE 9 */
+          transform: rotate(360deg);  /* Firefox 16+, IE 10+, Opera  } */
+  }
+}
+@keyframes spin {
+  0%   { -webkit-transform: rotate(0deg);  /* Chrome, Opera 15+, Safari 3.1+ */
+      -ms-transform: rotate(0deg);  /* IE 9 */
+          transform: rotate(0deg);  /* Firefox 16+, IE 10+, Opera  } */
+  		}
+  100% {
+  	 -webkit-transform: rotate(360deg);  /* Chrome, Opera 15+, Safari 3.1+ */
+      -ms-transform: rotate(360deg);  /* IE 9 */
+          transform: rotate(360deg);  /* Firefox 16+, IE 10+, Opera  } */
+  }
+}
+
+#loader-wrapper .loader-section {
+	position: fixed;
+	top: 0;
+	width: 51%;
+	height: 100%;
+	background: #222;
+	z-index: 1000;
+}
+
+#loader-wrapper .loader-section.section-left{
+	left: 0;
+}
+
+#loader-wrapper .loader-section.section-right{
+	right: 0;
+}
+
+/*loaded styles*/
+
+.loaded #loader-wrapper .loader-section.section-left{
+	-webkit-transform: translateX(-100%);  /* Chrome, Opera 15+, Safari 3.1+ */
+      -ms-transform: translateX(-100%);  /* IE 9 */
+          transform: translateX(-100%);  /* Firefox 16+, IE 10+, Opera  } */
+	-webkit-transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045 , 0.355 , 1.000);  /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6  */
+        	transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045 , 0.355 , 1.000);  /* Chrome 26, Firefox 16+, iOS 7+, IE 10+, Opera, Safari 6.1+  */
+
+}
+
+.loaded #loader-wrapper .loader-section.section-right{
+	-webkit-transform: translateX(100%);  /* Chrome, Opera 15+, Safari 3.1+ */
+      -ms-transform: translateX(100%);  /* IE 9 */
+          transform: translateX(100%);  /* Firefox 16+, IE 10+, Opera  } */
+	-webkit-transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045 , 0.355 , 1.000);  /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6  */
+        	transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045 , 0.355 , 1.000);  /* Chrome 26, Firefox 16+, iOS 7+, IE 10+, Opera, Safari 6.1+  */
+
+}
+
+.loaded #loader{
+	opacity: 0;
+
+	-webkit-transition: all 0.3s ease-out;  /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6  */
+        	transition: all 0.3s ease-out;  /* Chrome 26, Firefox 16+, iOS 7+, IE 10+, Opera, Safari 6.1+  */
+
+}
+
+.loaded #loader-wrapper{
+	visibility: hidden;
+
+	-webkit-transform: translateY(-100%);  /* Chrome, Opera 15+, Safari 3.1+ */
+      -ms-transform: translateY(-100%);  /* IE 9 */
+          transform: translateY(-100%);  /* Firefox 16+, IE 10+, Opera  } */
+	
+	-webkit-transition: all 0.3s 1s ease-out;  /* Android 2.1+, Chrome 1-25, iOS 3.2-6.1, Safari 3.2-6  */
+        	transition: all 0.3s 1s ease-out;  /* Chrome 26, Firefox 16+, iOS 7+, IE 10+, Opera, Safari 6.1+  */
+
+}
+
+#page-content{
+	margin: 0 auto;
+	padding-bottom: 50px;
+	width: 80%;
+	max-width: 978px;
+}
+

@@ -1,0 +1,88 @@
+/*!
+ * Start Bootstrap - 2 Col Portfolio (https://startbootstrap.com/template-overviews/2-col-portfolio)
+ * Copyright 2013-2018 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-2-col-portfolio/blob/master/LICENSE)
+ */
+
+/**{
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+body {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0 auto;
+}*/
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  margin-bottom: 30px;
+}
+
+.site-header{
+    padding-right: 5vw;
+    padding-left: 5vw;
+    margin: 1.5vw auto;
+    display: block;
+    margin-bottom: 3.5vh;
+}
+
+.work, .aruzhan , .me{
+/*
+    min-width: 0;
+    max-width: 100%;*/
+    flex: 1 1 0px;
+/*    width: 32%;*/
+    display: inline-block;
+    /*font-family: europa;*/
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    letter-spacing: .04em;
+    text-transform: none;
+    line-height: 1em;
+    text-decoration: none;
+}
+
+.work {
+    text-align: left;
+    color: #474747;
+    width: 30%;
+
+}
+
+.aruzhan {
+    text-align: center;
+    color: #474747;
+    width: 39%;
+
+}
+
+/*.aruzhan a{
+    font-family: europa;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 1.4em;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}*/
+
+.me {
+    text-align: right;
+    color: #474747;
+    width: 30%;
+    
+}
+
+
+
+.site-header a:visited, a:focus, a:active{
+    text-decoration: none;
+    outline: none;
+    color: #474747;
+}
