@@ -4,16 +4,41 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/master/LICENSE)
  */
 
-body {
-  padding-top: 54px;
-}
 
-@media (min-width: 992px) {
+
+/*@media (min-width: 992px) {
   body {
     padding-top: 56px;
   }
-}
+}*/
 
 .pagination {
   margin-bottom: 15px;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    max-width: 420px;
+    height: auto;
+    margin-left: 90px;
+}
+
+
+.rotate{
+	margin-top: 100px;
+}
+
+.test{
+	text-align: center;
+	color:black;
+	padding-top:0em;
+}
+
+.test a{
+	text-decoration: none;
+	color: black;
 }

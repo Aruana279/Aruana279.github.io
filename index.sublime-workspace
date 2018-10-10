@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ma",
+				"margin-left"
+			],
+			[
 				"mar",
 				"margin-top"
 			],
@@ -34,10 +38,6 @@
 			[
 				"back",
 				"background-position"
-			],
-			[
-				"ma",
-				"margin-right"
 			],
 			[
 				"fon",
@@ -380,15 +380,6 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 12044,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "about.html",
 			"settings":
 			{
@@ -398,19 +389,37 @@
 			}
 		},
 		{
-			"file": "work.html",
+			"file": "honors.html",
 			"settings":
 			{
-				"buffer_size": 8701,
+				"buffer_size": 7054,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11950,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/1-col-portfolio.css",
+			"settings":
+			{
+				"buffer_size": 771,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "paint-mountain.html",
 			"settings":
 			{
-				"buffer_size": 5885,
+				"buffer_size": 6226,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -475,6 +484,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Аружан/Documents/aru/Aruana279.github.io/index.html",
+		"/C/Users/Аружан/Documents/aru/Aruana279.github.io/work.html",
+		"/C/Users/Аружан/Documents/aru/Aruana279.github.io/assets/css/1-col-portfolio.css",
 		"/C/Users/Аружан/Documents/aru/assets/css/half-slider.css",
 		"/C/Users/Аружан/Documents/aru/paint.html",
 		"/C/Users/Аружан/Documents/aru/paint-lemon.html",
@@ -561,6 +573,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"test",
 			"indica",
 			"ol",
 			"abou",
@@ -687,8 +700,7 @@
 			"assets/boostrap-files/css/bootstrap.min.css:1",
 			"<link href='https://fonts.googleapis.com/css?family=Raleway:400,100,100italic,200,200italic,300,300italic,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic' rel='stylesheet' type='text/css'>",
 			"<link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"assets/img/favicons/apple-touch-icon-144x144.png\" />",
-			"<link type=\"text/css\" media=\"all\" href=\"assets/fonts/font-awesome/css/font-awesome.min.css\" rel=\"stylesheet\" />",
-			" <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\" />"
+			"<link type=\"text/css\" media=\"all\" href=\"assets/fonts/font-awesome/css/font-awesome.min.css\" rel=\"stylesheet\" />"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -711,36 +723,6 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12044,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3698,
-								3655
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2179.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "about.html",
 					"semi_transient": false,
 					"settings":
@@ -752,8 +734,8 @@
 						"selection":
 						[
 							[
-								2230,
-								2259
+								5385,
+								2901
 							]
 						],
 						"settings":
@@ -762,27 +744,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 589.0,
+						"translation.y": 2750.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "work.html",
+					"buffer": 1,
+					"file": "honors.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8701,
+						"buffer_size": 7054,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1029,
-								1029
+								5167,
+								5167
 							]
 						],
 						"settings":
@@ -792,7 +774,37 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 133.0,
+						"translation.y": 4142.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8529,
+								8529
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5149.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -800,19 +812,47 @@
 				},
 				{
 					"buffer": 3,
-					"file": "paint-mountain.html",
+					"file": "assets/css/1-col-portfolio.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5885,
+						"buffer_size": 771,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5779,
-								5779
+								771,
+								771
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 316.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "paint-mountain.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -825,17 +865,17 @@
 						"translation.y": 3719.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 6,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "assets/css/main.css",
 					"semi_transient": false,
 					"settings":
@@ -847,8 +887,8 @@
 						"selection":
 						[
 							[
-								497,
-								503
+								5846,
+								5850
 							]
 						],
 						"settings":
@@ -856,14 +896,14 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 299.0,
+						"translation.y": 7515.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "assets/css/style.css",
 					"semi_transient": false,
 					"settings":
@@ -875,8 +915,8 @@
 						"selection":
 						[
 							[
-								27841,
-								27841
+								1484,
+								1486
 							]
 						],
 						"settings":
@@ -886,14 +926,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 528.0,
+						"translation.y": 1641.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "assets/css/pillar-1.css",
 					"semi_transient": false,
 					"settings":
@@ -919,7 +959,7 @@
 						"translation.y": 191709.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
