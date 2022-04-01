@@ -1,26 +1,35 @@
-<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cd ../pastEmployment
-<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->broadInstitute.txt<br/><br/>
-Associate Computational Biologist <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-Broad Institute of MIT and Harvard, July 2020-Present
-    [+]  Processed NGS data (RNA-seq & snRNA-seq) from raw sequencing reads through downstream analysis 
-    [+]  Established a GitHub codebase for common analyses and wrote training manuals for teaching colleagues how to run their own analysis<br></br>
+<span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cd ../pastEmployment
+<span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->makerspacealmaty.txt<br/><br/>
+Aspiring Software Engineer <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+AMERICAN SPACE, U.S. DEPARTMENT OF STATE BUREAU OF EDUCATIONAL AND CULTURAL AFFAIRS, Dec 2020 – Nov 2021 
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+MAKER SPACE COORDINATOR
+    [+]  Created a mobile app using Swift to register all visitors in AmericanSpaces that was implemented in 3 Central Asian countries (Kazakhstan, Tajikistan, and Kyrgyzstan) 
+    [+]  Coordinated events including lectures, hackathons, conferences at Maker Space Almaty and mentored girls in STEM
+    [+]  <a href="https://www.kz.undp.org/content/kazakhstan/en/home/presscenter/news/2021/december/undp-is-supporting-stem-education-in-the-regions-of-kazakhstan-0.html">Girls Power Fund </a>- a STEM bootcamp for UND PKazakhstan.
+    <br></br>
 
-<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->takedaOncology.txt<br/><br/>
-Molecular Genomics Intern <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-Takeda Oncology, May-Aug 2019
+<span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->issai.txt<br/><br/>
+INSTITUTE OF SMART SYSTEMS AND ARTIFICIAL INTELLIGENCE, Jun – Sep 2020<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+RESEARCH ASSISTANT
 
-    [+]  Conducted analyses on public and private (in-house and external collaboration) scRNA-seq datasets  
-    [+]  Expanded functionality of the current scRNA-seq analysis workflow and developed web applications for data visualization using a version control system (Bitbucket, Jira, Confluence)<br></br>
-<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->MIT.txt<br/><br/>
-Research Assistant Intern <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-MIT Department of Biology, May-Aug 2018
+    [+]  Processed and analyzed data from sequential trajectories collected at finer level for a WiFi based localization project using Recurrent Neural Networks  
+    [+]  Evaluated traditional ML models using Pytorch library and conducted tests on DGX systems
+    [+]  Performed experiments to predict positions of mobile users employing the received signal strength values from surrounding Wireless Access Points
+    <br></br>
+<span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->nommi.txt<br/><br/>
+NOMMI, Jun - Aug 2019 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+SWE INTERN
 
-    [+]  Utilized an agile programming approach to produce and implement a pipeline for the automation of Pacific Bioscience's SMRT software suite with a custom output architecture
-    [+]  Assisted Doctor Stuart Levine with data analysis for his research on the effects of miRNAs on RNAseq across multiple library preparation kits in collaboration with members of the Association of Biomolecular Research Facilities<br></br>
-<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->WPIAdmissions.txt<br/><br/>
-Summer Admissions Associate <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-WPI Office of Admissions, June-Aug 2017
+    [+]  Created and presented a website for a newproject ”WiFimap” by building the front-end from the ground up using HTML, CSS, JavaScript, and jQuery for SF based e-SIM start up
+    [+]  Improved Nommi iOS app by connecting maps to the user personal page interface
+    <br></br>
+<span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->qamcare.txt<br/><br/>
+QAMCARE, Mar 2017 - Apr 2018 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+iOS DEVELOPER AND CO-FOUNDER
 
-    [+]  Recruited potential students through tours and interviews
-    [+]  Scheduled campus visits and answered potential students' questions over the phone<br></br>
-<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span><a href="https://aanicolella.github.io/"> cd ~</a>
+    [+]  Selected as a Grand Prize Winner of World Summit Technovation Challenge in San Francisco from 3700 teams
+    [+]  Featured in Forbes, BBC, TeenVogue, Technovation.org
+    [+]  Developed a personal security mobile app that brings safety to users through instant location sharing with friends and family in case of emergency
+    [+]  Built a hardware SOS button using Attiny 85 micro-controller which connects to the QamCare app through Bluetooth 4.0
+    <br></br>
