@@ -1,0 +1,17 @@
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cd aanicolella/<!-- kjsdfhkjdhsfkjdshfkj -->AboutMe
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->aanicolella.txt<br/><br/>
+Hi, my name's Ally! <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+I'm currently an Associate Computational Biologist in the Stanley Center for Psychiatric Research at the Broad Institute of MIT and Harvard. I received my Bachelor of Science in Bioinformatics & Computational Biology at Worcester Polytechnic Institute (WPI). I'm passionate about helping biologists to store, analyze, and interpret their data efficiently. <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+
+I have a background in pipeline development and single cell sequencing analysis, among other things. You can check out my previous work experience <a href="pastEmployment.html"> here</a>.<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+
+You can also learn more about some of my school projects and relevant courses <a href="projectsAndClasses.html"> here</a>.<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
+Still want to learn more? Check out my additional profiles below: <br> <a href="https://www.linkedin.com/in/alyssa-nicolella-a94b61159/">LinkedIn</a> <br> <a href="https://github.com/aanicolella">GitHub</a>
+
+You can also reach me directly at <a href="aanicolella@wpi.edu">aanicolella@wpi.edu</a>.
+
+Thanks for stopping by! <br></b>
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> exit
+<span id="a">ally@nicolella</span>:<span id="b">~</span><span id="c">$</span> 
