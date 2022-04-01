@@ -1,0 +1,88 @@
+/*Design template for personal website*/
+
+body{
+    background-color: black;
+}
+
+
+.name, .projectsTitle, .pastEmployment {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(230, 227, 227, 0.925);
+    font-weight: 85;
+    margin: 0;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-bottom: 0;
+    padding-top: 25px;
+}
+
+.description {
+    font-family: 'Courier New', Courier, monospace;
+    color:  rgba(158, 157, 157, 0.925);
+    font-size: 19px;
+    font-weight: 50;
+    margin: 0;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.jobTitle, .projectTitle {
+    font-family: 'Courier New', Courier, monospace;
+    color:  rgba(158, 157, 157, 0.925);
+    font-size: 23px;
+    font-weight: 50;
+    margin: 0;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.bio {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(230, 227, 227, 0.925);
+    font-size: 16px;
+    margin: 0;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 25px;
+}
+
+.more, .jobLocation {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(230, 227, 227, 0.925);
+    font-size: 16px;
+    margin: 0;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.pastWork, .links {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(230, 227, 227, 0.925);
+    padding-left: 300px;
+    list-style-type: none;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(230, 227, 227, 0.925);
+}
+
+.jobDescription, .projectDescription {
+    padding: 0 250px;
+}
+
+.lastJobDescription {
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 50px;
+}
+
+.courses {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(230, 227, 227, 0.925);
+    font-size: 16px;
+    margin: 0;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 25px;
+}

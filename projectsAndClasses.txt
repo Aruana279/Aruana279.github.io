@@ -1,0 +1,9 @@
+<span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cd ../projects
+<span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->projects.txt<br/><br/>
+Major Qualifying Project: __________
+
+<span id="a">aaru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cd ../relevantCourses
+<span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->courses.txt<br/><br/>
+Computer Science & Data Science
+
+[+] Machine Learning [+] Intro to Artificial Intelligence [+] Software Engineering [+] Intro-Machine Org & Assembly [+] Human Computer Interaction [+] Database Systems 1 and 2 [+] Algorithms [+] Discrete Mathematics [+] Object-Oriented Design Concepts [+] Systems Programming Concepts [+] Foundations of Computer Science [+] Data Science 1: Intro to Data Science [+] Data Science 2: Modeling and Data Analysis [+] Data Science 3: Computational Data Science<br></br>
