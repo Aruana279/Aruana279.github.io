@@ -1,6 +1,5 @@
 <span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cd ../pastEmployment
 <span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->makerspacealmaty.txt<br/><br/>
-Aspiring Software Engineer <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 AMERICAN SPACE, U.S. DEPARTMENT OF STATE BUREAU OF EDUCATIONAL AND CULTURAL AFFAIRS, Dec 2020 – Nov 2021 
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 MAKER SPACE COORDINATOR
