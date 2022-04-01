@@ -1,5 +1,5 @@
-<span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cd aanicolella/<!-- kjsdfhkjdhsfkjdshfkj -->AboutMe
-<span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->aanicolella.txt<br/><br/>
+<span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cd arukoshkarova/<!-- kjsdfhkjdhsfkjdshfkj -->AboutMe
+<span id="a">aru@koshkarova</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->arukoshkarova.txt<br/><br/>
 Hi, my name's Aru! <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 I'm currently a Junior pursuing my Bachelor of Science in Computer Science & Data Science at Worcester Polytechnic Institute (WPI). I'm passionate about coding and helping girls start their careers in tech field . <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
