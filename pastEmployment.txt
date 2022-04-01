@@ -28,7 +28,7 @@ QAMCARE, Mar 2017 - Apr 2018 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 iOS DEVELOPER AND CO-FOUNDER
 
     [+]  Selected as a Grand Prize Winner of World Summit Technovation Challenge in San Francisco from 3700 teams
-    [+]  Featured in <a href="https://forbes.kz/process/technologies/priehat_vameriku_ipobedit/"> Forbes</a>, <a href="https://www.bbc.com/worklife/article/20180315-the-kazakh-teen-keeping-people-safe" target="_blank" target="_blank"> BBC </a>, <a href="https://www.teenvogue.com/story/teen-girls-world-changing-apps-google-technovation" target="_blank"> TeenVogue </a>, <a href="https://www.technovation.org/blogs/girl-fighting-human-trafficking-with-app/ target="_blank""> Technovation.org </a>
+    [+]  Featured in <a href="https://forbes.kz/process/technologies/priehat_vameriku_ipobedit/"  target="_blank"> Forbes</a>, <a href="https://www.bbc.com/worklife/article/20180315-the-kazakh-teen-keeping-people-safe" target="_blank" target="_blank"> BBC </a>, <a href="https://www.teenvogue.com/story/teen-girls-world-changing-apps-google-technovation" target="_blank"> TeenVogue </a>, <a href="https://www.technovation.org/blogs/girl-fighting-human-trafficking-with-app/ target="_blank""> Technovation.org </a>
     [+]  Developed a personal security mobile app that brings safety to users through instant location sharing with friends and family in case of emergency
     [+]  Built a hardware SOS button using Attiny 85 micro-controller which connects to the QamCare app through Bluetooth 4.0
     <br></br>
